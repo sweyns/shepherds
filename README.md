@@ -1,7 +1,5 @@
 # shepherds
-shepherds is a local co-op game set in the Scottish Highlands. In this life game, the players are sheepherding dogs who have to herd a flock of sheep over a vast landscape and guide them back to the barn, protecting them from various obstacles and enemies along the way. 
-
-Note: the code for the game is not uploaded yet because the game is still under development. It will be published in 2 weeks' time.
+shepherds is a local co-op game set in the Scottish Highlands. In this life game, the players are sheepherding dogs who have to herd a flock of sheep over a vast landscape and guide them back to the barn, protecting them from various obstacles and enemies along the way. The full game can be downloaded at: https://stanfordstudentgames.itch.io/shepherds. 
 
 **Moodboard**
 ![](shepherds%20Mood%20Board.png)

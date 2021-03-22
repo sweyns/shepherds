@@ -4,12 +4,15 @@ shepherds is a local co-op game set in the Scottish Highlands. In this life game
 The full game and trailer can be found at: https://stanfordstudentgames.itch.io/shepherds. 
 
 **Moodboard**
+
 ![](shepherds%20Mood%20Board.png)
 
 **One-Page Game Design**
+
 ![](shepherds%20One%20Page%20Game%20Design-1.jpg)
 
 **Gameplay**
+
 ![](titlescreen.png)
 ![](Screenshot%202018-11-17%20at%2011.50.06%20PM.png)
 ![](image1.gif)
@@ -17,4 +20,5 @@ The full game and trailer can be found at: https://stanfordstudentgames.itch.io/
 ![](wolfandbear.png)
 
 **Credits**
+
 ![](Screenshot%202018-11-17%20at%2011.48.38%20PM.png)
